@@ -1,1 +1,1 @@
-# tododdle-support-mcp
+# tododdle-plugins
